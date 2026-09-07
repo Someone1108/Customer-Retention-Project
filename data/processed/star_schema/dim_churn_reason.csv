@@ -1,0 +1,22 @@
+churn_reason_key,churn_reason
+1,Attitude of service provider
+2,Attitude of support person
+3,Competitor had better devices
+4,Competitor made better offer
+5,Competitor offered higher download speeds
+6,Competitor offered more data
+7,Deceased
+8,Don't know
+9,Extra data charges
+10,Lack of affordable download/upload speed
+11,Lack of self-service on Website
+12,Limited range of services
+13,Long distance charges
+14,Moved
+15,Network reliability
+16,Not churned
+17,Poor expertise of online support
+18,Poor expertise of phone support
+19,Price too high
+20,Product dissatisfaction
+21,Service dissatisfaction

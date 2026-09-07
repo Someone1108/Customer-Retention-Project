@@ -1,0 +1,5 @@
+payment_method_key,payment_method,payment_risk_classification
+1,Bank transfer (automatic),Automatic payment method
+2,Credit card (automatic),Automatic payment method
+3,Electronic check,Higher observed churn risk
+4,Mailed check,Manual payment method
