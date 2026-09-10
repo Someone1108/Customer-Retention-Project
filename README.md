@@ -22,6 +22,7 @@ Completed so far:
 - Investigated missing `total_charges` values
 - Built first star schema CSV outputs
 - Added DuckDB SQL analysis notebook starter
+- Created Power BI dashboards
 
 ## Notebooks
 
@@ -47,14 +48,4 @@ Processed data:
 - `data/processed/star_schema/dim_churn_reason.csv`
 - `data/processed/star_schema/fact_customer_snapshot.csv`
 
-## Next Steps
 
-- Run and interpret notebook 05
-- Validate churn patterns using SQL
-- Define dashboard metrics and DAX measures
-- Build the Power BI model and dashboard pages
-- Add documentation, screenshots, and portfolio notes
-
-## Note
-
-This is a learning project using a public historical dataset. It is not connected to a live telecom production system.
